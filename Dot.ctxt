@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Dot
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Dot\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=dot
+comment1.target=Dot(int)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Head\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ lead()
+comment3.text=\r\n\ lead\ controls\ the\ direction\ the\ head\ of\ the\ snake\ moves\r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ there\ is\ no\ return\ type\r\n
+comment4.params=
+comment4.target=void\ lookForEdge()
+comment4.text=\r\n\ lookForEdge\ checks\ if\ the\ snake\ reaches\ the\ boundaries\ of\ the\ world\ and\ ends\ the\r\n\ game\ if\ this\ happens\r\n\ @param\ there\ are\ no\ parameters\r\n\ @return\ there\ is\ no\ return\ type\r\n
+comment5.params=
+comment5.target=void\ lookForFood()
+comment5.text=\r\n\ lookForFood\ checks\ if\ our\ snake\ is\ touching\ food\ and\ then\ grows\ its\ tail\ if\ we\ have\ eaten\ food\r\n\ @param\ there\ are\ no\ parameters\r\n\ @return\ there\ is\ no\ return\ type\r\n
+comment6.params=
+comment6.target=void\ lookForDot()
+comment7.params=
+comment7.target=void\ follow()
+comment7.text=\r\n\ follow\ handles\ the\ movement\ for\ every\ body\ part\ of\ the\ snake\r\n\ @param\ there\ are\ no\ parameters\r\n\ @return\ there\ is\ no\ return\ type\r\n
+comment8.params=
+comment8.target=void\ growTail()
+comment8.text=\r\n\ growTail\ will\ add\ a\ Dot\ to\ the\ end\ of\ our\ snake\ when\ we\ eat\r\n\ a\ Food\ object\r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ there\ is\ no\ return\ type\r\n
+numComments=9
